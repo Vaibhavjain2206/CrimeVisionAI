@@ -1,0 +1,14 @@
+Flask
+python-dotenv
+flask-cors
+groq>=0.11.0
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+numpy
+transformers>=4.45.0
+torch>=2.2.0
+torchaudio
+openai-whisper>=20231117
+reportlab
+requests
+pytest
